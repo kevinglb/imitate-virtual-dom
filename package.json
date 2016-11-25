@@ -1,0 +1,21 @@
+{
+  "name": "imitate-virtual-dom",
+  "version": "1.0.0",
+  "description": "an imitate of React's Virtual Dom",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinglb/imitate-virtual-dom.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinglb/imitate-virtual-dom/issues"
+  },
+  "homepage": "https://github.com/kevinglb/imitate-virtual-dom#readme"
+}
